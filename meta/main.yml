@@ -1,0 +1,10 @@
+---
+galaxy_info:
+  author: slothkong
+  description: A dummy Ansible role to create a timestamped file in /etc.
+  company: Acme
+  license:
+  min_ansible_version: "2.9"
+  role_name: ansible_role_subscribe
+  galaxy_tags: []
+dependencies: []
