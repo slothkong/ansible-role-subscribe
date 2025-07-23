@@ -5,4 +5,3 @@
     path: "/etc/{{ subscription_timestamp }}_subscribed.txt"
     state: touch
     mode: '0644'
-
