@@ -4,6 +4,6 @@ galaxy_info:
   author: slothkong
   description: A dummy Ansible role to create a timestamped file in /etc.
   company: Acme
-  license: null
+  license: ""
   min_ansible_version: "2.9"
 dependencies: []
